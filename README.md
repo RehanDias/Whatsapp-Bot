@@ -1,6 +1,6 @@
-# WhatsApp Bot Readme
+# WhatsApp Bot
 
-Welcome to the WhatsApp Bot Readme! 🤖
+Welcome to the WhatsApp Bot! 🤖
 
 This bot is designed for both personal and group usage, offering a variety of features to make your WhatsApp experience more fun and convenient. Please note that some commands may be limited to personal usage to maintain a pleasant chat environment. Here's a summary of the available commands and their functionalities:
 
@@ -63,7 +63,3 @@ This bot is designed for both personal and group usage, offering a variety of fe
     - **Recent Strong Earthquakes**:
       - Command: `bmkg1`
       - Retrieves and sends information about the five latest earthquakes with a magnitude of 5.0 or higher from the BMKG website.
-
-Please enjoy using these commands responsibly and have fun interacting with the WhatsApp Bot! 🎉
-
-If you have any questions or encounter issues, feel free to reach out to the bot's administrator. Happy messaging! 😊📱🤖
